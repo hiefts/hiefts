@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hiefts!
 - 👀 I’m interested in optimizing my private tech usage & creating entertainment.
 - 🌱 I’m currently learning Python & basic computer science.
-- 📫 [Reach out to me on social media](https://vanessaglau.carrd.co).
 
 <!---
 hiefts/hiefts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
